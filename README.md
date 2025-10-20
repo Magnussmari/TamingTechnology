@@ -17,9 +17,11 @@ A complete system for **AI-augmented learning and work** that teaches you to orc
 
 **Core Philosophy:**
 - 🎼 **AI Orchestration** - Conduct multiple specialized AIs (Claude, ChatGPT, Perplexity, Cursor) instead of relying on one
-- 🗺️ **Personalized Roadmaps** - Generate custom 8-week learning paths tailored to your exact background and goals
+- 🗺️ **Personalized Learning Paths** - Generate custom roadmaps tailored to your exact background and goals
 - 🏗️ **Systems Thinking** - Understand complete systems, architecture, and how pieces connect
-- ⚡ **Rapid Skill Acquisition** - Build real projects while learning, not just tutorials
+- ⚡ **Build While Learning** - Real projects, not just tutorials
+
+**Timeline:** Varies by background and goals. Some see results in weeks, others need months. Your mileage will vary.
 
 ---
 
@@ -148,7 +150,7 @@ You (Conductor) → Perplexity (Research)
 ### 1. Learning Roadmap Generator
 **When:** Starting new skills, career transitions, feeling lost
 **AI:** Perplexity or Claude Chat
-**Output:** Custom 8-week learning plan
+**Output:** Custom structured learning roadmap
 
 ### 2. Tech Stack Analysis
 **When:** New project, inherited codebase, "WTF is this?"
@@ -162,18 +164,35 @@ You (Conductor) → Perplexity (Research)
 
 ---
 
-## 💡 Real-World Example
+## 💭 What Success Looks Like
 
-**Sam's Journey:** Business analyst → Professional developer in 8 weeks
+Success isn't about speed—it's about sustainable progress and building real capability.
 
-**Week 1-2:** Used Prompt 1 to create roadmap, Prompt 2 to understand existing Lovable project
-**Week 3-4:** Built simple features with Cursor, escalated complex bugs to Claude Chat
-**Week 5-6:** Designed and built first original features using full orchestration
-**Week 7-8:** Built custom CRM feature independently with AI collaboration
+### Early Wins (First Few Weeks)
+- You understand *why* the AI suggested that approach
+- You can spot when AI gives you outdated or wrong advice
+- You've built something small but complete
+- You know which tool to reach for
 
-**Result:** Confident, capable, understands architecture, knows when to escalate
+### Building Momentum (1-3 Months)
+- Reading code feels less like reading hieroglyphics
+- You can debug simple issues without AI
+- You're building things that actually work
+- You understand architecture, not just syntax
 
-[Read Sam's complete journey →](WORKFLOWS/sam-journey.md)
+### Sustainable Productivity (3-6+ Months)
+- AI is your co-pilot, not your autopilot
+- You're shipping features consistently
+- You help others who are earlier in the journey
+- You understand your own learning style
+
+**The Real Metric:** Can you build things that work and maintain them over time?
+
+Time to get there varies wildly based on:
+- Prior technical experience
+- Time commitment (part-time vs. full-time)
+- Complexity of your goals
+- Your learning style and persistence
 
 ---
 
@@ -189,34 +208,49 @@ You (Conductor) → Perplexity (Research)
 
 ---
 
-## 🗺️ Learning Path Overview
+## 🎚️ Orchestration Maturity Levels
 
-### Level 1: Prompt Engineer (Week 1-2)
+Most people progress through these stages, but there's no fixed timeline:
+
+### Level 1: Single Tool User
 - Uses 1-2 AIs for everything
-- Learning the AI Tool Matrix
-- Building first small projects
+- Frustrated by inconsistent results
+- Just beginning to see limitations
 
-### Level 2: Tool User (Week 3-4)
-- Uses 2-3 AIs regularly
-- Understands specialization
-- Manual context transfer improving
+**Time:** Starting point for most
 
-### Level 3: Orchestrator ⭐ (Week 5-8)
-**TARGET LEVEL - Most users stabilize here**
+### Level 2: Learning Specialization
+- Uses 2-3 AIs, seeing the differences
+- Manual context transfer still awkward
+- Building simple projects successfully
+- Understanding tool strengths
+
+**Time:** Weeks to months
+
+### Level 3: Competent Orchestrator ⭐ **Most People Stabilize Here**
 - Uses 3-5 AIs fluidly
-- Natural tool selection
-- Smooth context transfers
-- Consistent building without getting stuck
+- Natural tool selection for common tasks
+- Smooth enough context transfers
+- Consistently building and shipping
+- Still learning, still getting stuck sometimes
 
-### Level 4: Conductor (Month 3-4)
-- Full AI ecosystem
+**Time:** 2-6 months typically
+
+### Level 4: Advanced Practitioner
+- Seamless multi-AI workflows
 - Custom orchestration patterns
-- Teaching others
+- Teaching others effectively
+- Leading projects with confidence
 
-### Level 5: Architect (Month 6+)
-- Multi-project coordination
-- Team orchestration frameworks
-- Building automation tools
+**Time:** 6-12+ months
+
+### Level 5: Expert Orchestrator
+- Full ecosystem mastery
+- Creating new patterns and tools
+- Team coordination at scale
+- Contributing back to the community
+
+**Time:** 1+ years of consistent practice
 
 ---
 
@@ -320,6 +354,38 @@ This system integrates four core concepts:
 
 ---
 
+## 🎭 Real Talk: What to Actually Expect
+
+### This Guide WILL:
+✅ Give you a proven framework for AI orchestration
+✅ Show you which tools work best for which tasks
+✅ Provide ready-to-use prompts and patterns
+✅ Help you build real projects systematically
+✅ Accelerate your learning IF you put in the work
+
+### This Guide WON'T:
+❌ Make you a senior developer overnight
+❌ Replace the need to understand fundamentals
+❌ Work if you don't actually build things
+❌ Guarantee any specific timeline or outcome
+❌ Be easy or fast (learning never is)
+
+### You'll Need:
+- **Time:** 10-20+ hours/week for meaningful progress
+- **Persistence:** You'll get stuck. Often. That's the process.
+- **Tools:** Some free tiers work, but paid tools are better
+- **Honesty:** About your current level and goals
+- **Projects:** Something real to build, not just tutorials
+
+### You'll Gain:
+- A systematic approach to learning with AI
+- The ability to build and ship real features
+- Understanding of architecture and systems
+- Confidence in your technical abilities
+- A method that works for you
+
+---
+
 ## 🚀 Ready to Start?
 
 ### Option 1: The Immediate Path (Start Now)
@@ -352,16 +418,24 @@ If you find this useful, please ⭐ star this repository to help others discover
 
 ---
 
-## 🎭 Remember
+## 🎼 The Bottom Line
 
-> "You're not just learning to code. You're learning to orchestrate intelligence—both artificial and your own—to achieve goals that were previously impossible."
+You're not just learning to code. You're learning to orchestrate intelligence—both artificial and your own—to achieve goals that were previously out of reach.
 
-**You have an entire orchestra of AI tools ready to help.**
-**You're the conductor.**
-**This is your symphony.**
+**This isn't magic. It's method.**
 
-**Now go build something amazing.** 🎻🎺🎸🥁🎹🎷
+The system works. But *you* have to do the work.
+
+You have an entire orchestra of AI tools ready to help. You're the conductor.
+
+**Now go build something.** 🎻🎺🎸🥁🎹
+
+Start small. Build consistently. Progress compounds.
 
 ---
 
-**⭐ Don't forget to star this repo if you found it helpful!**
+⭐ **If this helps your journey, star this repo so others can find it.**
+
+💬 **Questions?** [Start a discussion](https://github.com/magnussmari/TamingTechnology/discussions)
+🐛 **Found an issue?** [Open an issue](https://github.com/magnussmari/TamingTechnology/issues)
+🤝 **Want to contribute?** [See CONTRIBUTING.md](CONTRIBUTING.md)

@@ -40,7 +40,7 @@ Follow [AI Workbench Setup Guide](WORKFLOWS/ai-workbench-setup.md):
 
 Use [Prompt R1: Research Roadmap Generator](PROMPTS/prompt-r1-research-roadmap.md):
 - Input your research question and goals
-- Get personalized 8-week learning path
+- Get personalized structured learning path
 - Tool recommendations for your domain
 - Milestone projects to validate progress
 
@@ -112,7 +112,7 @@ You (Conductor) → Scite.ai (Citation analysis)
 ### R1: Research Roadmap Generator
 **When:** Starting new research area, need systematic approach
 **AI:** Perplexity or Claude Chat
-**Output:** 8-week learning path for AI-augmented research
+**Output:** Structured learning path for AI-augmented research
 
 ### R2: Literature Evaluation Framework
 **When:** Need consistent paper assessment criteria
