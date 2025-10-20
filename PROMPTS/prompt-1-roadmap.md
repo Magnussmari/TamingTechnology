@@ -30,9 +30,15 @@ Students ready to:
 
 ## 🚀 How to Use This Prompt
 
+**Step 0: Have Your Profile Ready** ⭐
+- **First, complete [USER-PROFILE.md](../USER-PROFILE.md)** if you haven't already
+- This profile is your source of truth - copy info from it to fill this prompt
+- See [example profile](../USER-PROFILE-EXAMPLE.md) for reference
+
 **Step 1: Fill in Your Information**
+- **Open your completed profile** (`MY-PROFILE.md`)
 - Read through the **CONTEXT** section below
-- Replace all `[INSERT: ...]` placeholders with your specific information
+- **Copy relevant sections from your profile** to fill `[INSERT: ...]` placeholders
 - Be honest about your experience level and learning goals
 
 **Step 2: Copy the Entire Prompt**

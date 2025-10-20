@@ -28,20 +28,28 @@ A complete system for **AI-augmented learning and development** that teaches you
 
 ---
 
-## ⚡ Quick Start (5 Minutes)
+## ⚡ Quick Start (15 Minutes)
 
-### 1. Choose Your AI Tools
+### 0. Create Your Profile (5 min) ⭐ **START HERE**
+Your profile is the foundation of everything!
+
+1. Open [USER-PROFILE.md](USER-PROFILE.md) (see [example](USER-PROFILE-EXAMPLE.md))
+2. Fill out your experience, goals, and learning preferences
+3. Save as `MY-PROFILE.md` in your learning folder
+4. **This drives all three prompts** - your source of truth!
+
+### 1. Choose Your AI Tools (3 min)
 - **Research:** [Perplexity](https://perplexity.ai) (free tier works)
 - **Strategy:** [Claude Chat](https://claude.ai) or [ChatGPT](https://chat.openai.com)
 - **Implementation:** [Cursor](https://cursor.sh) (recommended) or Claude Code
 
-### 2. Create Your Learning Roadmap
+### 2. Create Your Learning Roadmap (5 min)
 1. Open [PROMPTS/prompt-1-roadmap.md](PROMPTS/prompt-1-roadmap.md)
-2. Fill in your background, experience, and goals
+2. **Use your profile** to fill in the prompt placeholders
 3. Paste into Perplexity or Claude Chat
 4. **You now have a personalized 8-week learning plan!**
 
-### 3. Start Building
+### 3. Start Building (2 min setup)
 Follow your roadmap and use the [Senior-Junior AI Pattern](PROMPTS/prompt-3-senior-junior.md) when coding:
 - **Senior AI** (Claude Chat) = Strategic thinking, architecture, debugging
 - **Junior AI** (Cursor) = Code implementation, quick fixes
@@ -52,6 +60,7 @@ Follow your roadmap and use the [Senior-Junior AI Pattern](PROMPTS/prompt-3-seni
 ## 📚 What's Inside?
 
 ### Core System
+- **[👤 USER-PROFILE.md](USER-PROFILE.md)** - **START HERE!** Your foundation profile template ([see example](USER-PROFILE-EXAMPLE.md))
 - **[📖 COMPLETE-GUIDE.md](COMPLETE-GUIDE.md)** - The full 2,600-line guide (everything below in detail)
 - **[🎯 PROMPTS/](PROMPTS/)** - Three powerful prompts ready to copy-paste:
   - [Prompt 1: Learning Roadmap Generator](PROMPTS/prompt-1-roadmap.md) - Your personalized curriculum

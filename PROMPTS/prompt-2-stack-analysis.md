@@ -30,6 +30,11 @@ Developers who:
 
 ## 🚀 How to Use This Prompt
 
+**Step 0: Reference Your Profile** ⭐
+- Have your [USER-PROFILE.md](../USER-PROFILE.md) handy
+- Reference your "Current Projects" section for project details
+- Check your "Tech Stack Preferences" to see what you want to understand
+
 **Step 1: Prepare Your Project Information**
 - Locate your `package.json`, `requirements.txt`, or equivalent dependency file
 - Note your main framework (React, Next.js, Vue, etc.)

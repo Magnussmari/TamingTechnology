@@ -34,6 +34,13 @@ By creating structured communication between these tools, you simulate a realist
 
 ## 🚀 How to Use This Workflow
 
+**Step 0: Have Your Profile Ready** ⭐
+- Keep your [USER-PROFILE.md](../USER-PROFILE.md) accessible
+- When escalating to Senior AI, include relevant context from your profile:
+  - Your learning style (how much explanation you need)
+  - Your current comfort level with technologies
+  - Your specific goals (helps AI tailor advice)
+
 **Step 1: Initialize Both AI Contexts**
 1. Open your preferred **chat AI** (Claude, ChatGPT) → Paste **Prompt 1 (Senior)** below
 2. Open your **IDE AI agent** (Cursor, Cline, Claude Code) → Use **Prompt 2 (Report Template)** when needed

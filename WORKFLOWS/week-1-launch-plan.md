@@ -5,7 +5,22 @@
 
 ---
 
-## Day 1: Foundation Setup (2 hours)
+## Day 1: Foundation Setup (2.5 hours)
+
+### ⭐ FIRST THING: Create Your Profile (30 min)
+**DO THIS BEFORE ANYTHING ELSE - It's your foundation!**
+
+- [ ] Open [USER-PROFILE.md](../USER-PROFILE.md)
+- [ ] Review the [example profile](../USER-PROFILE-EXAMPLE.md) to see what a completed one looks like
+- [ ] Fill out YOUR profile completely and honestly:
+  - Current experience level
+  - Goals & outcomes
+  - Tech stack preferences
+  - Time availability
+  - Learning style
+  - Known blockers
+- [ ] Save as: `MY-PROFILE.md` in your `AI_Learning_Journey/` folder
+- [ ] **This is your source of truth** - all prompts will reference this!
 
 ### Morning: Read & Understand (1 hour)
 - [ ] Read [AI Orchestration Philosophy](../COMPLETE-GUIDE.md#-part-1-ai-orchestration-philosophy)
@@ -30,14 +45,15 @@
 
 ## Day 2: Create Your Roadmap (1-2 hours)
 
-### Task: Use Prompt 1
+### Task: Use Prompt 1 (WITH Your Profile!)
 
+- [ ] **Open YOUR profile** (`MY-PROFILE.md`) - you'll reference it!
 - [ ] Open [Prompt 1: Learning Roadmap Generator](../PROMPTS/prompt-1-roadmap.md)
-- [ ] Fill in all `[INSERT: ...]` sections honestly:
-  - Your current tool/platform
-  - Your experience level
-  - Your motivation
-  - What you need help with (YES/NO)
+- [ ] **Use your profile to fill in** all `[INSERT: ...]` sections:
+  - Copy from "Current Experience Level" section
+  - Copy from "Goals & Outcomes" section
+  - Copy from "Tech Stack Preferences" section
+  - Copy from "Time Availability" section
   - Your specific goals (2-3)
 - [ ] Copy the completed prompt
 - [ ] Paste into **Perplexity** or **Claude Chat**
