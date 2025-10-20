@@ -13,18 +13,59 @@ Stop using one AI for everything. Learn to **orchestrate** specialized AI tools 
 
 ## 🎯 What Is This?
 
-A complete system for **AI-augmented learning and development** that teaches you:
+A complete system for **AI-augmented learning and work** that teaches you to orchestrate multiple specialized AIs like a conductor leading an orchestra.
 
+**Core Philosophy:**
 - 🎼 **AI Orchestration** - Conduct multiple specialized AIs (Claude, ChatGPT, Perplexity, Cursor) instead of relying on one
-- 🗺️ **Personalized Learning** - Generate custom 8-week roadmaps tailored to your exact background and goals
-- 🏗️ **Systems Thinking** - Understand technology stacks, architecture, and how pieces connect
+- 🗺️ **Personalized Roadmaps** - Generate custom 8-week learning paths tailored to your exact background and goals
+- 🏗️ **Systems Thinking** - Understand complete systems, architecture, and how pieces connect
 - ⚡ **Rapid Skill Acquisition** - Build real projects while learning, not just tutorials
 
+---
+
+## 🛤️ Choose Your Pathway
+
+**Same foundation, different applications:**
+
+### 💻 [Development Pathway](PROMPTS/) (Main)
+**For software developers and engineers**
+
+Build applications, understand codebases, learn programming:
+- Transition from low-code/no-code tools to professional development
+- Master tech stacks (React, Next.js, Python, etc.)
+- Build with AI collaboration (Cursor, Claude Code, GitHub Copilot)
+- Deploy production applications
+
 **Perfect for:**
-- Developers transitioning from low-code/no-code tools (Lovable, Bolt, Replit, v0)
-- Self-taught learners who want structure without traditional courses
-- Professionals adding new tech stacks to their toolkit
-- Teams establishing AI-augmented workflows
+- Developers transitioning from Lovable, Bolt, Replit, v0
+- Self-taught learners wanting structure
+- Professionals adding new tech stacks
+- Teams establishing AI-augmented development
+
+**[→ Start Development Pathway](#-quick-start-15-minutes)**
+
+---
+
+### 🔬 [Research Pathway](RESEARCH-PATHWAY/) **NEW!**
+**For academic researchers and scientists**
+
+Automate literature reviews, systematic research, and evidence synthesis:
+- Process 100+ papers systematically (not manually)
+- Use AI for search, evaluation, and synthesis
+- Build research workflows with Scite.ai, Elicit, Claude
+- Create custom evaluation rubrics for your field
+
+**Perfect for:**
+- PhD students doing literature reviews
+- Researchers doing systematic reviews or meta-analyses
+- Scientists monitoring emerging research
+- Academics writing grants and papers
+
+**[→ Start Research Pathway](RESEARCH-PATHWAY/)**
+
+---
+
+Both pathways start with the same [USER-PROFILE](USER-PROFILE.md), then diverge based on your goals.
 
 ---
 
