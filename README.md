@@ -11,6 +11,20 @@ Stop using one AI for everything. Learn to **orchestrate** specialized AI tools 
 
 ---
 
+## 📖 About This Project
+
+**This is a work in progress.**
+
+This repository documents my approach to AI—a methodology that has been forming and evolving over the last few years through real-world practice and experimentation. You can see some of my work at [www.smarason.is](https://www.smarason.is).
+
+**This is a starting point, not a rulebook.** Once you get a feel for these tools and patterns, you'll adapt them to do what *you* want—whether that's learning to cook Italian food, managing software projects, conducting research, or something entirely different.
+
+**The most important thing:** How does this technology make your life in the real world better? That's the question that matters.
+
+Technology for technology's sake is just noise. Technology that helps you build, create, learn, and solve real problems—that's worth your time.
+
+---
+
 ## 🎯 What Is This?
 
 A complete system for **AI-augmented learning and work** that teaches you to orchestrate multiple specialized AIs like a conductor leading an orchestra.
