@@ -1,0 +1,9 @@
+AI Tool,Icon,Primary Strength,Best For,Avoid Using For
+Claude (Chat),🔵,Deep reasoning and nuanced understanding,"Strategic thinking, complex explanations, ethical reasoning","Real-time data, image generation, quick facts"
+Claude Code,🟢,Codebase analysis and systematic editing,"Refactoring, debugging, file navigation, understanding architecture","Initial learning, creative ideation, research"
+Perplexity,🔴,Real-time web search and current information,"Finding latest docs, checking current events, research validation","Code generation, creative writing, strategic planning"
+ChatGPT,🟡,Conversational flexibility and creative tasks,"Brainstorming, creative writing, general assistance","Deep code analysis, current information, specialized domains"
+Grok,🟣,Contrarian thinking and unique perspectives,"Challenging assumptions, finding alternative approaches","Production code, detailed documentation, sensitive topics"
+Gemini,🟠,Multimodal analysis and Google integration,"Image analysis, YouTube transcripts, Google Workspace tasks","Privacy-sensitive work, deep code analysis"
+Cursor/Copilot,⚙️,In-IDE autocomplete and contextual suggestions,"Writing boilerplate, completing patterns, quick fixes","Architecture decisions, strategic planning, learning"
+Aider/Cline,🤖,Autonomous code editing and file operations,"Bulk refactoring, systematic changes, repetitive tasks","Nuanced decisions, architectural changes"
