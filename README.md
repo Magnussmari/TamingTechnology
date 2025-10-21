@@ -72,7 +72,7 @@ Automate literature reviews, systematic research, and evidence synthesis:
 - Create custom evaluation rubrics for your field
 
 **Perfect for:**
-- PhD students doing literature reviews
+- Students doing literature reviews
 - Researchers doing systematic reviews or meta-analyses
 - Scientists monitoring emerging research
 - Academics writing grants and papers
