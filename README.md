@@ -1,4 +1,4 @@
-# 🎓 Taming Technology: AI Learning Orchestration System
+# 🎓 Taming Technology: AI Learning Orchestration System ** In Development**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0-green.svg)](COMPLETE-GUIDE.md)
