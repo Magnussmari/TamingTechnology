@@ -611,45 +611,46 @@ Instead of using one AI for everything (and getting mediocre results), this meth
 - **Cursor or Claude Code** for code implementation
 - **Specialized tools** for specific domains (Scite.ai for research, etc.)
 
-The system includes:
-- ✅ **3 Ready-to-Use Prompts** - Learning Roadmap Generator, Tech Stack Analysis, Senior-Junior AI Pattern
-- ✅ **Complete User Profile System** - Customizes everything to your background and goals
-- ✅ **Two Main Pathways** - Development (coding) and Research (academic)
-- ✅ **Domain Adaptations** - Data Science, Mobile Dev, DevOps, Game Dev, and more
-- ✅ **Team Patterns** - For coordinating AI use across teams
-- ✅ **Full 2,600-line Guide** - Deep dive into the complete methodology
+**The system includes:**
+
+- **3 Ready-to-Use Prompts** - Learning Roadmap Generator, Tech Stack Analysis, Senior-Junior AI Pattern
+- **Complete User Profile System** - Customizes everything to your background and goals
+- **Two Main Pathways** - Development (coding) and Research (academic)
+- **Domain Adaptations** - Data Science, Mobile Dev, DevOps, Game Dev, and more
+- **Team Patterns** - For coordinating AI use across teams
+- **Full 2,600-line Guide** - Deep dive into the complete methodology
 
 **Common Use Cases I Can Help With:**
 
-🎯 **Complete Beginners** - "I want to learn programming but have no experience"
-- I'll guide you through creating your user profile and generating a custom 8-week roadmap
-- We'll start with fundamentals and build your first project
-- Realistic timeline: 3-6 months to basic competency
+**🎯 Complete Beginners** - "I want to learn programming but have no experience"
+  - I'll guide you through creating your user profile and generating a custom 8-week roadmap
+  - We'll start with fundamentals and build your first project
+  - Realistic timeline: 3-6 months to basic competency
 
-💻 **Experienced Developers** - "I want to use AI more effectively in my work"
-- Jump straight to the Senior-Junior AI Pattern
-- Learn orchestration principles (takes weeks, not months)
-- Immediately applicable to your current projects
+**💻 Experienced Developers** - "I want to use AI more effectively in my work"
+  - Jump straight to the Senior-Junior AI Pattern
+  - Learn orchestration principles (takes weeks, not months)
+  - Immediately applicable to your current projects
 
-🔬 **Researchers & Academics** - "I need to process 100+ papers for a literature review"
-- Follow the Research Pathway (not the Development Pathway)
-- Learn systematic review with AI tools
-- Automate search, evaluation, and synthesis
+**🔬 Researchers & Academics** - "I need to process 100+ papers for a literature review"
+  - Follow the Research Pathway (not the Development Pathway)
+  - Learn systematic review with AI tools
+  - Automate search, evaluation, and synthesis
 
-👥 **Team Leads** - "How do we use AI as a team without chaos?"
-- Team coordination patterns
-- Pull request orchestration
-- Shared context management
+**👥 Team Leads** - "How do we use AI as a team without chaos?"
+  - Team coordination patterns
+  - Pull request orchestration
+  - Shared context management
 
-📊 **Domain-Specific** - "I'm in [Data Science/Mobile/DevOps/etc.]"
-- Customized adaptations for your tech stack
-- Domain-specific tool recommendations
-- Field-appropriate workflows
+**📊 Domain-Specific** - "I'm in [Data Science/Mobile/DevOps/etc.]"
+  - Customized adaptations for your tech stack
+  - Domain-specific tool recommendations
+  - Field-appropriate workflows
 
-🏗️ **Project-Based** - "I have a specific app/project I want to build"
-- Tech stack analysis for understanding existing code
-- Structured building approach
-- Real-world application, not just tutorials
+**🏗️ Project-Based** - "I have a specific app/project I want to build"
+  - Tech stack analysis for understanding existing code
+  - Structured building approach
+  - Real-world application, not just tutorials
 
 **To give you the best guidance, I need to understand your situation:**
 
@@ -676,12 +677,13 @@ The system includes:
    - Any specific technologies you need/want to learn?
 
 **Once I understand your situation, I can:**
-- ✅ Point you to the exact files you need
-- ✅ Help you fill out your User Profile
-- ✅ Customize the roadmap for your goals
-- ✅ Explain concepts in your terms
-- ✅ Answer questions about the methodology
-- ✅ Guide you step-by-step through the system
+
+- Point you to the exact files you need
+- Help you fill out your User Profile
+- Customize the roadmap for your goals
+- Explain concepts in your terms
+- Answer questions about the methodology
+- Guide you step-by-step through the system
 
 **I'm here to help you navigate this entire repository.** Tell me about yourself and what you want to achieve, and I'll guide you to the right resources and pathway.
 
