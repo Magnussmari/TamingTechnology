@@ -141,6 +141,10 @@ A complete system for **AI-augmented learning and work** that teaches you to orc
 - 🏗️ **Systems Thinking** - Understand complete systems, architecture, and how pieces connect
 - ⚡ **Build While Learning** - Real projects, not just tutorials
 
+**Why This Matters Beyond Productivity**
+
+Most AI guides focus on efficiency. This system addresses something deeper: maintaining human judgment while scaling capability. When you orchestrate with clear boundaries, you preserve accountability—you know which AI made which decision and why. You maintain domain expertise by routing tasks appropriately, not outsourcing judgment. And you augment work humans want help with (research, implementation), not replace the work they value (strategy, design, judgment).
+
 **Timeline:** Varies by background and goals. Some see results in weeks, others need months. Your mileage will vary.
 
 ---
