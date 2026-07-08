@@ -1,121 +1,29 @@
-# 📋 COPY THIS ENTIRE README INTO YOUR LLM OF CHOICE
-
-**Yes, you read that right.** This README is designed to be both:
-- 📖 **Traditional documentation** (read it on GitHub)
-- 🤖 **An interactive AI guide** (paste it into Claude, ChatGPT, Perplexity, etc.)
-
-When you paste this README into an LLM, it becomes your personal guide through this repository. The LLM can answer questions, help you navigate, customize the system for your needs, and guide you step-by-step.
-
-**Try it now:** Copy this entire page and paste it into your favorite LLM, then ask questions like:
-- "I'm a designer who wants to learn web development, where do I start?"
-- "How do I customize this for data science?"
-- "Walk me through creating my first roadmap"
-- "What's the Senior-Junior pattern and when should I use it?"
-
-### 💬 Example Interaction
-
-**You:** *[Paste this README into Claude/ChatGPT]*
-"Hi! I'm a project manager with no coding experience. I want to build a simple web app to track my team's tasks."
-
-**LLM:** "Great! Let me help you get started. Based on what you've told me, here's what I recommend:
-
-1. First, let's create your user profile using USER-PROFILE.md - this will be your foundation
-2. You'll follow the Development Pathway since you want to build a web app
-3. I'll guide you through Prompt 1 (Learning Roadmap Generator) to create a custom 8-week plan
-
-Before we dive in, a few quick questions:
-- How much time can you dedicate per week? (This affects your timeline)
-- Have you used any AI tools before? (Claude, ChatGPT, etc.)
-- Do you prefer video tutorials or written guides?
-
-Let me know and I'll customize the roadmap for you!"
-
-**That's the power of this approach** - the README becomes your personal guide.
-
----
-
-## 🤖 Instructions for AI Assistants
-
-**If you are an AI assistant reading this**, you have been given the complete contents of the **Taming Technology** repository—an AI Learning Orchestration System.
-
-**Your Role:**
-- Guide users through this repository based on their background, goals, and experience level
-- Ask clarifying questions to understand what they want to achieve
-- Help them navigate to the right files and prompts
-- Customize recommendations based on their specific situation
-- Explain concepts in their terms, not generic explanations
-- Be conversational and helpful, not robotic
-
-**When a user pastes this, start by asking:**
-1. What brings them here? (learning to code, research, specific project, etc.)
-2. Their current experience level with AI tools and technology
-3. What they want to build or learn
-
-**Then guide them to the right pathway and resources.**
-
-**Available pathways:**
-- Development Pathway (PROMPTS/ directory) - for software development
-- Research Pathway (RESEARCH-PATHWAY/) - for academic research
-- Both start with USER-PROFILE.md
-
-**Key files you can reference:**
-- USER-PROFILE.md - Template they should fill out first
-- PROMPTS/prompt-1-roadmap.md - Learning roadmap generator
-- PROMPTS/prompt-2-stack-analysis.md - Tech stack analyzer
-- PROMPTS/prompt-3-senior-junior.md - Senior-Junior AI pattern
-- COMPLETE-GUIDE.md - Full 2,600-line detailed guide
-- TOOLS/ai-tool-matrix.csv - Which AI for which task
-
-**Your tone:** Helpful, practical, honest about timelines and effort required. No hype.
-
-**Common user scenarios and how to help:**
-
-1. **Complete Beginner (no coding experience)**
-   - Start with USER-PROFILE.md
-   - Emphasize the Development Pathway
-   - Walk them through Prompt 1 step-by-step
-   - Set realistic expectations: 3-6 months for basic competency
-   - Focus on the "why" behind orchestration
-
-2. **Experienced Developer (wants to use AI better)**
-   - Jump straight to the Senior-Junior pattern (Prompt 3)
-   - Show them the AI Tool Matrix
-   - Explain orchestration philosophy
-   - They can move fast - weeks to proficiency
-
-3. **Researcher/Academic**
-   - Direct them to RESEARCH-PATHWAY/
-   - Focus on literature review automation
-   - Scite.ai, Elicit, Claude for research
-   - Different workflow than developers
-
-4. **Team Lead/Manager**
-   - Show TEAM-PATTERNS/ directory
-   - PR orchestration and team workflows
-   - Focus on coordination, not individual learning
-   - Emphasize shared context management
-
-5. **Domain-Specific (Data Science, Mobile, etc.)**
-   - Check DOMAIN-ADAPTATIONS/ for their field
-   - Customize roadmap for their tech stack
-   - Adjust AI tool recommendations
-
-**Remember:** Always ask clarifying questions first. Don't assume. Guide, don't prescribe.
-
----
-
-# 🎓 Taming Technology: AI Learning Orchestration System
+# 🎓 Taming Technology — AI Learning Orchestration System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.1-green.svg)](COMPLETE-GUIDE.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/magnussmari/TamingTechnology?style=social)](https://github.com/magnussmari/TamingTechnology)
 
-**Transform how you learn and build with AI** 🚀
+> A practical, open methodology for **AI-augmented learning and work** — learning to *orchestrate* specialized AI tools like a conductor leading an orchestra, each playing its part, instead of leaning on one model for everything. The through-line: scale your capability without outsourcing your judgment.
 
-Stop using one AI for everything. Learn to **orchestrate** specialized AI tools like a conductor leading an orchestra—each instrument playing its perfect part.
+By Magnús Smári Smárason ([smarason.is](https://www.smarason.is)) · MIT-licensed · a work in progress, forming over several years of real-world practice.
 
 ---
+
+## What this is
+
+An educational system that teaches you to **orchestrate multiple specialized AIs** (Claude, ChatGPT, Perplexity, Cursor…) rather than relying on any single one, and to build real things while you learn. It ships as a set of Markdown guides, reusable prompts, and adaptation recipes — no install, no account, no dependency on any one vendor.
+
+Two pathways run through it: a **Development Pathway** (learn to build software) and a **Research Pathway** (orchestrate AI for literature review and research work), plus domain adaptations (data science, DevOps, mobile, game dev), quick-reference selectors, orchestration workflows, and an anti-dependency guide on keeping human judgment in the loop.
+
+## Use it as a guide *or* as an AI companion
+
+The whole repository is written to work two ways:
+
+- **Read it on GitHub** as ordinary documentation — start with `USER-PROFILE.md`, then follow the pathway that fits you.
+- **Hand it to an AI assistant** — paste the `COMPLETE-GUIDE.md` (or this README) into Claude/ChatGPT/Perplexity and ask it to walk you through the system for your background and goals. The content is structured so a model can navigate it with you.
+
+Both routes lead to the same place; pick whichever suits how you like to learn.
 
 ## 📖 What Is This Repository?
 
